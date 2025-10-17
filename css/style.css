@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: yellowgreen;
+}
+h3 {
+    margin-bottom: 25px;
+}
+section {
+    padding: 25px;
+    margin: 25px;
+}
+.parallax {
+    background-image: url(/img/olive-oil_1920.webp);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    block-size: cover;
+    width: 100vw;
+    height: 20vw;
+}
